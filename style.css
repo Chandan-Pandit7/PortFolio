@@ -8,7 +8,7 @@
     outline: none;
     border: none;
     scroll-behavior: smooth;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 :root {
